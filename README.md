@@ -1,6 +1,6 @@
 # farmsmart
 
-A new Flutter project.
+Smart farming app with AI powered disease detection
 
 ## Getting Started
 
